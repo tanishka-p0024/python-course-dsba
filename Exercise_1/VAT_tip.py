@@ -9,4 +9,4 @@ vat = 0.1*a
 print(f'The VAT for the {a}€ is {vat:.2f}')
 
 total = a + vat
-print(f'Your total is {total:.2f}')
+print(f'Your total is {total:.2f}€')
