@@ -3,3 +3,5 @@ users = [
     {'username': 'Bob', 'password': 'pwd'},
     {'username': 'Charlie', 'password': 'paris41'}
 ]
+
+

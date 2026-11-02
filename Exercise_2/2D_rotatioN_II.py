@@ -13,7 +13,7 @@ theta_rad = np.radians(theta)
 
 
 
-for r in range(2):
+for r in range(4):
     x_new = x*np.cos(theta_rad) - y*np.sin(theta_rad)
     y_new = y*np.cos(theta_rad) + x*np.sin(theta_rad)
     x,y = x_new,y_new
